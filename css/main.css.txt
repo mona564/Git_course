@@ -1,0 +1,3 @@
+body {
+ FRONT-SIZE:20PX; 
+}
